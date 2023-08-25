@@ -10,7 +10,7 @@ There are various search and sort options (including alphabetical, by ingredient
 cocktails.json: this file contains the actual cocktail recipes   
 python.py: this file contains the script (see below).
 
-Feel free to add additional recipes, improve the existing ones, or modify the code as you see fit. 
+Feel free to add additional recipes, improve the existing ones, or modify the code as you see fit (subject to the GNU General Public Licence v3 conditions). 
 
 -------------------------------------------
 
