@@ -35,4 +35,4 @@ Enter your choice (0-4):
 
 ----------------------------------------------
 
-so it is pretty self-explanatory --cheers!
+after which you can enter a number (0-4), so it is pretty self-explanatory --cheers!
