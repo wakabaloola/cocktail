@@ -16,7 +16,7 @@ Feel free to add additional recipes, improve the existing ones, or modify the co
 
 HOW TO USE IT
 
-It is very simple; just run the python script with your favourite IDE, or (if you are on a mac) directly in the terminal by typing:
+It is very simple; just run the python script with your favourite IDE, or (if you are on a mac) directly in the terminal (and after navigating to the appropriate directory) by typing:
 
 python cocktail.py
 
