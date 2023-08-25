@@ -4,11 +4,13 @@
 
 DESCRIPTION
 
-A convenient and interactive cocktail recipe finder. It include 123 cocktail recipes with step-by-step preparation procedures. There are various search and sort options (including alphabetical, by ingredients, cocktail names). 
+A convenient and interactive cocktail recipe finder. It includes 123 cocktail recipes with step-by-step instructions. 
+There are various search and sort options (including alphabetical, by ingredients, cocktail names). 
 
-The cocktails.json file contains the actual cocktail recipes, whereas the python.py file contains the script (see below).
+cocktails.json: this file contains the actual cocktail recipes 
+python.py: this file contains the script (see below).
 
-Feel free to add additional ones or improve the existing ones, or modify the code as you see fit. 
+Feel free to add additional ones recipes, improve the existing ones, or modify the code as you see fit. 
 
 -------------------------------------------
 
