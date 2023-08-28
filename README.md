@@ -12,6 +12,8 @@ python.py: this file contains the script (see below).
 
 Feel free to add additional recipes, improve the existing ones, or modify the code as you see fit (subject to the GNU General Public Licence v3 conditions). 
 
+NOTE: In the file mediterranean.py there is a corresponding script for mediterranean food recipes instead of cocktails. I'm including it here because the underlying code is essentially the same (with some minor tweaks). The food recipes it draws from are stored in mediterranean_recipes.json.
+
 -------------------------------------------
 
 HOW TO USE IT
