@@ -1,0 +1,736 @@
+[
+    {
+        "name": "Choriatiki Salata",
+        "servings": 4,
+        "ingredients": {
+            "Cucumber": "1/2 large (optional ingredient)",
+            "Green Peppers": "1/2 large (optional ingredient)",
+            "Tomatoes": "2 large",
+            "Red Onion": "1/2 medium",
+            "Kalamata Olives": "to taste",
+            "Feta Cheese": "a square slab of the desired size and hardness",
+            "Xinomizithra": "if you can find it, use as an alternative to the feta cheese", 
+            "Olive Oil": "to taste",
+            "Dried Oregano": "to taste",
+            "Salt": "To taste"
+        },
+        "instructions": "Slice the tomatoes, cucumber and onions into cylindrical slices of the desired thickness, and cut each slice into four quarters. Arrange these in a large bowl, add the olives, dress with olive oil, and then sprinkle the desired amount of salt. Place a slab of feta cheese on top and add a final drizzle of olive oil and oregano."
+    },
+    {
+        "name": "Grilled Chicken",
+        "servings": 2,
+        "ingredients": {
+            "Chicken Breasts": "2 boneless, skinless",
+            "Lemon Juice": "1/4 cup",
+            "Olive Oil": "1/4 cup",
+            "Garlic": "3 cloves, minced",
+            "Dried Oregano": "1 tsp",
+            "Dried Thyme": "1 tsp",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp"
+        },
+        "instructions": "In a bowl, whisk together lemon juice, olive oil, minced garlic, dried oregano, dried thyme, salt, and black pepper. Place chicken breasts in a resealable plastic bag and pour marinade over them. Seal the bag and refrigerate for at least 1 hour (preferably overnight). Preheat grill to medium-high heat. For best results: if you have the means to instead cook on an open wood fire, aim for a hardwood such as olive wood or fruit woods, with branch diameters 5-10 cm, and wait for fire to reduce to hot coal before cooking on it. Grill chicken for about 6-7 minutes per side, or until cooked throughout. Do not exceed an internal temperature of 75C if you have the means to measure it. After removing from the fire serve within a couple of minutes."
+    },
+    {
+        "name": "Hummus",
+        "servings": 6,
+        "ingredients": {
+            "Canned Chickpeas": "2 cans (15 oz each), drained and rinsed",
+            "Tahini": "1/3 cup",
+            "Lemon Juice": "1/4 cup",
+            "Garlic": "2 cloves",
+            "Ground Cumin": "1/2 tsp",
+            "Olive Oil": "2 tbsp",
+            "Water": "2-3 tbsp",
+            "Salt": "To taste",
+            "Paprika": "For garnish",
+            "Fresh Parsley": "For garnish"
+        },
+        "instructions": "In a food processor, blend chickpeas, tahini, lemon juice, garlic, cumin, olive oil, and water until smooth and creamy. If needed, add more water to achieve desired consistency. Season with salt. Transfer to a serving bowl, drizzle with olive oil, and sprinkle with paprika and chopped parsley."
+    },
+    {
+        "name": "Roasted Vegetables",
+        "servings": 4,
+        "ingredients": {
+            "Red Bell Pepper": "1 large, sliced",
+            "Yellow Bell Pepper": "1 large, sliced",
+            "Zucchini": "2 medium, sliced",
+            "Red Onion": "1 large, sliced",
+            "Cherry Tomatoes": "1 cup",
+            "Olive Oil": "3 tbsp",
+            "Balsamic Vinegar": "2 tbsp",
+            "Garlic": "3 cloves, minced",
+            "Dried Thyme": "1 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Preheat the oven to 400°F (200°C). In a large bowl, combine sliced peppers, zucchini, red onion, and cherry tomatoes. In a small bowl, whisk together olive oil, balsamic vinegar, minced garlic, dried thyme, salt, and black pepper. Pour the dressing over the vegetables and toss to coat. Spread the vegetables on a baking sheet in a single layer. Roast for about 20-25 minutes, stirring once, until the vegetables are tender and slightly caramelized. Serve warm."
+    },
+    {
+        "name": "Lemon Garlic Shrimp Pasta",
+        "servings": 4,
+        "ingredients": {
+            "Linguine Pasta": "12 oz",
+            "Large Shrimp": "1 lb, peeled and deveined",
+            "Olive Oil": "3 tbsp",
+            "Butter": "2 tbsp",
+            "Garlic": "4 cloves, minced",
+            "Red Pepper Flakes": "1/2 tsp",
+            "Lemon Zest": "1 lemon",
+            "Lemon Juice": "2 tbsp",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Grated Parmesan": "For serving"
+        },
+        "instructions": "Cook linguine pasta according to package instructions. In a large skillet, heat olive oil and butter over medium heat. Add minced garlic and red pepper flakes, and sauté for about 1 minute. Add shrimp and cook for 2-3 minutes per side until pink and cooked through. Stir in lemon zest, lemon juice, and chopped parsley. Season with salt and black pepper. Add cooked pasta to the skillet and toss to combine. Serve with grated Parmesan on top."
+    },
+    {
+        "name": "Falafel",
+        "servings": 4,
+        "ingredients": {
+            "Dried Chickpeas": "1 cup, soaked overnight",
+            "Onion": "1 medium, chopped",
+            "Fresh Parsley": "1/2 cup, chopped",
+            "Garlic": "3 cloves, minced",
+            "Ground Cumin": "1 tsp",
+            "Ground Coriander": "1 tsp",
+            "Baking Powder": "1/2 tsp",
+            "Salt": "1 tsp",
+            "Black Pepper": "1/2 tsp",
+            "Vegetable Oil": "For frying"
+        },
+        "instructions": "In a food processor, blend soaked chickpeas, chopped onion, parsley, minced garlic, ground cumin, ground coriander, baking powder, salt, and black pepper until a coarse mixture forms. Transfer to a bowl and refrigerate for about 1 hour. Form the mixture into small patties. Heat vegetable oil in a pan over medium heat. Fry falafel patties for 3-4 minutes per side, or until golden brown. Serve with pita bread and tahini sauce."
+    },
+    {
+        "name": "Moussakas",
+        "servings": 6,
+        "ingredients": {
+            "Eggplant": "2 medium, sliced",
+            "Ground Lamb": "1 lb",
+            "Onion": "1 medium, chopped",
+            "Garlic": "3 cloves, minced",
+            "Canned Crushed Tomatoes": "14 oz",
+            "Red Wine": "1/4 cup",
+            "Ground Cinnamon": "1/2 tsp",
+            "Ground Allspice": "1/4 tsp",
+            "Nutmeg": "1/4 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Olive Oil": "3 tbsp",
+            "Milk": "2 cups",
+            "Butter": "4 tbsp",
+            "All-Purpose Flour": "1/4 cup",
+            "Grated Parmesan": "1/2 cup",
+            "Egg": "1, beaten",
+            "Breadcrumbs": "1/2 cup"
+        },
+        "instructions": "Preheat oven to 375°F (190°C). Brush eggplant slices with olive oil and arrange them on a baking sheet. Roast for about 15-20 minutes, until tender. In a skillet, heat olive oil and sauté chopped onion and minced garlic. Add ground lamb and cook until browned. Stir in crushed tomatoes, red wine, ground cinnamon, ground allspice, nutmeg, salt, and black pepper. Simmer for 20 minutes. In a separate saucepan, melt butter and whisk in flour. Gradually add milk while whisking to create a white sauce. Remove from heat and stir in grated Parmesan and beaten egg. Layer roasted eggplant and lamb mixture in a baking dish. Pour the white sauce over the top. Sprinkle breadcrumbs on top. Bake for 30-35 minutes, until golden and bubbly."
+    },
+    {
+        "name": "Tabbouleh",
+        "servings": 6,
+        "ingredients": {
+            "Bulgur Wheat": "1/2 cup",
+            "Boiling Water": "1 cup",
+            "Tomatoes": "2 medium, diced",
+            "Fresh Parsley": "1 cup, chopped",
+            "Fresh Mint": "1/2 cup, chopped",
+            "Green Onions": "4, chopped",
+            "Lemon Juice": "1/4 cup",
+            "Olive Oil": "1/4 cup",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp"
+        },
+        "instructions": "Place bulgur wheat in a bowl and pour boiling water over it. Cover and let it sit for about 20 minutes, until the bulgur is tender and water is absorbed. Fluff with a fork and let it cool. In a large bowl, combine diced tomatoes, chopped parsley, chopped mint, and chopped green onions. Add cooled bulgur to the bowl. In a small bowl, whisk together lemon juice, olive oil, salt, and black pepper. Pour dressing over the salad and toss to combine. Refrigerate for about 1 hour before serving."
+    },
+    {
+        "name": "Lamb Kofta",
+        "servings": 4,
+        "ingredients": {
+            "Ground Lamb": "1 lb",
+            "Onion": "1 medium, grated",
+            "Garlic": "3 cloves, minced",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Ground Cumin": "1 tsp",
+            "Ground Coriander": "1 tsp",
+            "Ground Paprika": "1/2 tsp",
+            "Cayenne Pepper": "1/4 tsp",
+            "Salt": "1 tsp",
+            "Black Pepper": "1/2 tsp",
+            "Skewers": "Wooden or metal skewers"
+        },
+        "instructions": "In a bowl, combine ground lamb, grated onion, minced garlic, chopped parsley, ground cumin, ground coriander, ground paprika, cayenne pepper, salt, and black pepper. Mix well. Divide the mixture and shape it onto skewers to form elongated kebabs. Preheat grill or stovetop grill pan over medium-high heat. Grill the kofta for about 3-4 minutes per side, or until cooked through. Serve with pita bread, hummus, and yogurt sauce."
+    },
+    {
+        "name": "Spanakopita",
+        "servings": 12,
+        "ingredients": {
+            "Phyllo Dough": "1 package (16 oz), thawed",
+            "Spinach": "2 packages (10 oz each), frozen and drained",
+            "Feta Cheese": "1 cup, crumbled",
+            "Eggs": "3, beaten",
+            "Onion": "1 medium, chopped",
+            "Dill": "1/4 cup, chopped",
+            "Olive Oil": "1/4 cup",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp",
+            "Butter": "1/2 cup, melted"
+        },
+        "instructions": "Preheat oven to 375°F (190°C). In a skillet, sauté chopped onion in olive oil until translucent. Add frozen and drained spinach to the skillet and cook until heated through. Remove from heat and let it cool. In a bowl, combine cooked spinach and onion mixture, crumbled feta cheese, beaten eggs, chopped dill, salt, and black pepper. Brush a baking dish with melted butter. Layer a sheet of phyllo dough, brush with butter, and repeat with several more layers. Spread the spinach mixture over the phyllo layers. Layer more phyllo sheets on top, brushing each with butter. Tuck in any excess phyllo around the edges. Bake for 35-40 minutes, until golden brown and crisp. Allow to cool slightly before slicing and serving."
+    },
+    {
+        "name": "Bechamel",
+        "servings": 6,
+        "ingredients": {
+            "Unsalted Butter": "4 tbsp",
+            "All-Purpose Flour": "1/4 cup",
+            "Milk": "2 cups, warmed",
+            "Ground Nutmeg": "1/4 tsp",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp"
+        },
+        "instructions": "In a saucepan, melt unsalted butter over medium heat. Stir in all-purpose flour and cook for a few minutes to create a roux. Gradually whisk in warmed milk to avoid lumps. Continue whisking until the sauce thickens and comes to a gentle boil. Stir in ground nutmeg, salt, and black pepper. Remove from heat and set aside to use in the 'Moussaka' recipe."
+    },
+    {
+        "name": "Tzatziki",
+        "servings": 6,
+        "ingredients": {
+            "Greek Yogurt": "2 cups",
+            "Cucumber": "1 medium, grated and squeezed",
+            "Garlic": "2 cloves, minced",
+            "Fresh Dill": "2 tbsp, chopped",
+            "Lemon Juice": "1 tbsp",
+            "Extra Virgin Olive Oil": "2 tbsp",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp"
+        },
+        "instructions": "In a bowl, combine Greek yogurt, grated and squeezed cucumber, minced garlic, chopped dill, lemon juice, extra virgin olive oil, salt, and black pepper. Mix well. Refrigerate for at least an hour before serving to allow flavors to meld. Serve as a dip with pita bread or as a sauce for grilled meats."
+    },
+    {
+        "name": "Dolmades",
+        "servings": 6,
+        "ingredients": {
+            "Grape Leaves": "1 jar (about 30 leaves), rinsed and drained",
+            "Ground Beef or Lamb": "1/2 lb",
+            "White Rice": "1/2 cup",
+            "Onion": "1 medium, finely chopped",
+            "Fresh Dill": "1/4 cup, chopped",
+            "Fresh Mint": "1/4 cup, chopped",
+            "Lemon Juice": "1/4 cup",
+            "Olive Oil": "1/4 cup",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp",
+            "Water": "1 1/2 cups",
+            "Chicken or Vegetable Broth": "1/2 cup"
+        },
+        "instructions": "In a bowl, combine ground beef or lamb, white rice, finely chopped onion, chopped dill, chopped mint, lemon juice, olive oil, salt, and black pepper. Place a grape leaf flat on a work surface and add a spoonful of the meat-rice mixture near the stem end. Fold in the sides of the leaf and roll tightly. Repeat with the remaining leaves and mixture. Place dolmades in a pot, seam side down. Add water and chicken or vegetable broth to the pot. Place a heatproof plate on top of the dolmades to keep them from unraveling. Cover and simmer for about 40-45 minutes, until the rice is cooked. Serve warm or at room temperature."
+    },
+    {
+        "name": "Pastitsio",
+        "servings": 8,
+        "ingredients": {
+            "Macaroni": "1 lb",
+            "Ground Beef": "1 lb",
+            "Onion": "1 medium, chopped",
+            "Garlic": "3 cloves, minced",
+            "Canned Crushed Tomatoes": "28 oz",
+            "Red Wine": "1/2 cup",
+            "Cinnamon": "1/2 tsp",
+            "Ground Nutmeg": "1/4 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Olive Oil": "2 tbsp",
+            "Butter": "2 tbsp",
+            "All-Purpose Flour": "2 tbsp",
+            "Milk": "2 cups",
+            "Eggs": "2, beaten",
+            "Grated Parmesan": "1/2 cup"
+        },
+        "instructions": "Cook macaroni according to package instructions. In a skillet, heat olive oil and sauté chopped onion until translucent. Add minced garlic and ground beef, and cook until browned. Stir in crushed tomatoes, red wine, cinnamon, ground nutmeg, salt, and black pepper. Simmer for 20 minutes. In a saucepan, melt butter and whisk in flour. Gradually add milk while whisking to create a white sauce. Remove from heat and let it cool slightly. Gradually whisk in beaten eggs and grated Parmesan. Preheat oven to 375°F (190°C). Grease a baking dish and layer half of the cooked macaroni. Top with the meat sauce. Layer the remaining macaroni on top of the sauce. Pour the white sauce over the macaroni layer. Bake for about 40-45 minutes, until the top is golden and bubbly. Let it rest for a few minutes before slicing."
+    },
+    {
+        "name": "Gemista",
+        "servings": 6,
+        "ingredients": {
+            "Large Bell Peppers": "6",
+            "Large Tomatoes": "6",
+            "Rice": "1 cup",
+            "Onion": "1 medium, chopped",
+            "Fresh Parsley": "1/2 cup, chopped",
+            "Fresh Mint": "1/4 cup, chopped",
+            "Olive Oil": "1/4 cup",
+            "Pine Nuts": "1/4 cup",
+            "Raisins": "1/4 cup",
+            "Canned Tomato Sauce": "1 cup",
+            "Water": "1 cup",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Cut the tops off the peppers and tomatoes and scoop out the insides. In a bowl, combine rice, chopped onion, chopped parsley, chopped mint, pine nuts, raisins, olive oil, salt, and black pepper. Stuff the peppers and tomatoes with the rice mixture. Place the stuffed vegetables in a baking dish. Mix canned tomato sauce and water, then pour over the stuffed vegetables. Place the tops back on the peppers and tomatoes. Cover the dish with aluminum foil and bake at 375°F (190°C) for about 50-60 minutes, until the rice is cooked and the vegetables are tender."
+    },
+    {
+        "name": "Revithosoupa",
+        "servings": 6,
+        "ingredients": {
+            "Dried Chickpeas": "1 cup, soaked overnight",
+            "Onion": "1 large, chopped",
+            "Carrot": "1 medium, chopped",
+            "Celery Stalk": "1, chopped",
+            "Olive Oil": "1/4 cup",
+            "Ground Cumin": "1 tsp",
+            "Paprika": "1 tsp",
+            "Bay Leaf": "1",
+            "Lemon Juice": "2 tbsp",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "In a pot, heat olive oil and sauté chopped onion, chopped carrot, and chopped celery until softened. Add soaked chickpeas, ground cumin, paprika, bay leaf, salt, and black pepper. Add enough water to cover the ingredients. Bring to a boil, then reduce heat and simmer for about 1.5 to 2 hours, until the chickpeas are tender. Remove the bay leaf. Use an immersion blender to partially blend the soup to achieve a creamy consistency. Stir in lemon juice and chopped parsley. Adjust seasoning if needed. Serve warm."
+    },
+    {
+        "name": "Kolokythokeftedes",
+        "servings": 4,
+        "ingredients": {
+            "Zucchini": "2 medium, grated and squeezed",
+            "Feta Cheese": "1/2 cup, crumbled",
+            "Fresh Dill": "1/4 cup, chopped",
+            "Fresh Mint": "1/4 cup, chopped",
+            "Green Onion": "1, chopped",
+            "Egg": "1",
+            "All-Purpose Flour": "1/2 cup",
+            "Baking Powder": "1/2 tsp",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp",
+            "Olive Oil": "For frying"
+        },
+        "instructions": "In a bowl, combine grated and squeezed zucchini, crumbled feta cheese, chopped dill, chopped mint, chopped green onion, and egg. In a separate bowl, whisk together all-purpose flour, baking powder, salt, and black pepper. Gradually add the flour mixture to the zucchini mixture, stirring to combine. Heat olive oil in a skillet over medium-high heat. Drop spoonfuls of the batter into the hot oil and flatten slightly. Fry the fritters for about 3-4 minutes per side, until golden brown. Drain on paper towels. Serve warm as an appetizer or side dish."
+    },
+    {
+        "name": "Paximadia",
+        "servings": 30,
+        "ingredients": {
+            "All-Purpose Flour": "3 cups",
+            "Baking Powder": "1 tsp",
+            "Sugar": "1 cup",
+            "Olive Oil": "1 cup",
+            "Orange Juice": "1/2 cup",
+            "Zest of 1 Orange": "",
+            "Sesame Seeds": "1/2 cup"
+        },
+        "instructions": "Preheat oven to 350°F (175°C). In a bowl, whisk together all-purpose flour and baking powder. In a separate bowl, mix sugar, olive oil, orange juice, and orange zest until well combined. Gradually add the dry ingredients to the wet ingredients, mixing until a dough forms. Divide the dough into two portions. Shape each portion into a log about 2 inches wide. Roll the logs in sesame seeds to coat. Place the logs on a baking sheet lined with parchment paper. Bake for about 25-30 minutes, until golden brown. Remove from the oven and let the logs cool for a few minutes. Slice the logs diagonally into biscotti-sized pieces. Place the slices back on the baking sheet and bake for an additional 10-15 minutes, until crisp and dry. Let the paximadia cool completely before serving."
+    },
+    {
+        "name": "Rizogalo",
+        "servings": 6,
+        "ingredients": {
+            "Rice": "1/2 cup",
+            "Water": "2 cups",
+            "Milk": "2 cups",
+            "Sugar": "1/2 cup",
+            "Cinnamon": "1 cinnamon stick",
+            "Vanilla Extract": "1 tsp",
+            "Salt": "1/4 tsp",
+            "Egg": "1, beaten",
+            "Ground Cinnamon": "For garnish"
+        },
+        "instructions": "In a pot, combine Arborio rice and water. Bring to a boil, then reduce heat and simmer until the water is absorbed. Add milk, sugar, cinnamon stick, vanilla extract, and salt to the rice. Stir well and bring to a gentle simmer. Cook, stirring occasionally, until the rice is creamy and tender, about 30-35 minutes. Remove the cinnamon stick. Gradually whisk a small amount of the hot rice mixture into the beaten egg to temper it. Return the tempered egg mixture to the pot, stirring constantly. Continue to cook for another 2-3 minutes until the pudding thickens. Remove from heat and let it cool slightly. Serve warm or chilled, sprinkled with ground cinnamon."
+    },
+    {
+        "name": "Kleftiko",
+        "servings": 6,
+        "ingredients": {
+            "Lamb Shoulder or Leg": "4 lbs",
+            "Potatoes": "1 lb, peeled and quartered",
+            "Red Onion": "2 large, sliced",
+            "Garlic": "6 cloves, minced",
+            "Olive Oil": "1/4 cup",
+            "Dry White Wine": "1/2 cup",
+            "Lemon Juice": "1/4 cup",
+            "Dried Oregano": "2 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Preheat oven to 350°F (175°C). In a bowl, mix olive oil, dry white wine, lemon juice, minced garlic, dried oregano, salt, and black pepper. Place the lamb in a roasting pan and arrange the quartered potatoes around it. Scatter sliced red onions over the lamb and potatoes. Pour the olive oil mixture over the ingredients. Cover the pan tightly with aluminum foil. Roast for about 3 hours, until the lamb is tender and the potatoes are cooked. Remove the foil and roast for an additional 15-20 minutes to brown the top. Let the roast rest before slicing and serving."
+    },
+    {
+        "name": "Spanakorizo",
+        "servings": 4,
+        "ingredients": {
+            "Fresh Spinach": "1 lb, washed and chopped",
+            "Long-Grain Rice": "1 cup",
+            "Onion": "1 medium, chopped",
+            "Dill": "1/4 cup, chopped",
+            "Olive Oil": "1/4 cup",
+            "Tomato Paste": "2 tbsp",
+            "Water": "3 cups",
+            "Lemon Juice": "2 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "In a pot, heat olive oil and sauté chopped onion until translucent. Stir in tomato paste and chopped dill. Add washed and chopped spinach and cook until wilted. Add long-grain rice and stir to coat with the mixture. Pour in water, lemon juice, salt, and black pepper. Bring to a boil, then reduce heat to low, cover, and simmer for about 20-25 minutes, until the rice is tender and the liquid is absorbed. Fluff with a fork before serving."
+    },
+    {
+        "name": "Gigantes Plaki",
+        "servings": 6,
+        "ingredients": {
+            "Gigantes Beans": "2 cups, soaked overnight",
+            "Onion": "1 large, chopped",
+            "Carrots": "2 medium, chopped",
+            "Canned Crushed Tomatoes": "14 oz",
+            "Olive Oil": "1/4 cup",
+            "Honey": "2 tbsp",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Dried Oregano": "1 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Preheat oven to 375°F (190°C). In a pot, cook soaked gigantes beans until slightly tender. Drain and set aside. In an ovenproof dish, combine cooked beans, chopped onion, chopped carrots, canned crushed tomatoes, olive oil, honey, dried oregano, salt, and black pepper. Mix well. Cover the dish with aluminum foil and bake for about 45-50 minutes. Remove the foil and bake for an additional 15-20 minutes, until the beans are tender and the top is slightly caramelized. Sprinkle chopped parsley over the top before serving."
+    },
+    {
+        "name": "Melitzanosalata",
+        "servings": 6,
+        "ingredients": {
+            "Eggplants": "2 large",
+            "Garlic": "2 cloves, minced",
+            "Lemon Juice": "1/4 cup",
+            "Tahini": "2 tbsp",
+            "Olive Oil": "1/4 cup",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Preheat oven to 400°F (200°C). Pierce eggplants with a fork and roast them in the oven for about 40-50 minutes, until tender. Let them cool, then peel and chop the flesh. In a bowl, mix chopped eggplant, minced garlic, lemon juice, tahini, olive oil, salt, and black pepper. Use a fork to mash and combine the ingredients. Stir in chopped parsley. Serve as a dip with pita bread or as a side dish."
+    },
+    {
+        "name": "Loukoumades",
+        "servings": 6,
+        "ingredients": {
+            "All-Purpose Flour": "2 cups",
+            "Dry Yeast": "1 packet (2 1/4 tsp)",
+            "Warm Water": "1 cup",
+            "Sugar": "1 tbsp",
+            "Salt": "1/4 tsp",
+            "Olive Oil": "1 tbsp",
+            "Honey": "1/2 cup",
+            "Cinnamon": "1 tsp",
+            "Chopped Walnuts": "1/4 cup (optional)"
+        },
+        "instructions": "In a bowl, combine warm water, sugar, and dry yeast. Let it sit for about 10 minutes until foamy. In a large bowl, whisk together all-purpose flour and salt. Add the yeast mixture and olive oil to the flour mixture. Mix until a sticky dough forms. Cover the bowl with a damp cloth and let the dough rise in a warm place for about 1 hour, until doubled in size. Heat vegetable oil for frying in a deep pot to 350°F (175°C). Use a spoon to drop small rounds of dough into the hot oil. Fry the loukoumades until golden brown and puffed, about 2-3 minutes per side. Remove with a slotted spoon and drain on paper towels. Drizzle honey over the warm loukoumades and sprinkle with cinnamon and chopped walnuts, if using. Serve warm."
+    },
+    {
+        "name": "Souvlakia",
+        "servings": 4,
+        "ingredients": {
+            "Boneless Chicken or Pork": "500g, cut into cubes",
+            "Olive Oil": "60ml",
+            "Lemon Juice": "60ml",
+            "Garlic": "4 cloves, minced",
+            "Dried Oregano": "2 tsp",
+            "Salt": "1/2 tsp",
+            "Black Pepper": "1/4 tsp",
+            "Pita Bread": "For serving",
+            "Tzatziki": "For serving"
+        },
+        "instructions": "In a bowl, whisk together olive oil, lemon juice, minced garlic, dried oregano, salt, and black pepper. Add chicken or pork cubes to the marinade and toss to coat. Cover and refrigerate for at least 1 hour. Preheat grill or stovetop grill pan over medium-high heat. Thread marinated meat onto skewers. Grill for about 4-5 minutes per side, or until cooked through. Serve with warm pita bread and tzatziki."
+    },
+    {
+        "name": "Saganaki",
+        "servings": 4,
+        "ingredients": {
+            "Kefalograviera Cheese": "200g, sliced into rectangles",
+            "All-Purpose Flour": "1/4 cup",
+            "Olive Oil": "2 tbsp",
+            "Lemon Wedges": "For serving"
+        },
+        "instructions": "Dredge the cheese slices in all-purpose flour, shaking off excess. In a pan, heat olive oil over medium heat. Once hot, add the cheese slices and cook for about 2 minutes per side, until golden and crispy. Serve immediately with lemon wedges."
+    },
+    {
+        "name": "Avgolemono Soupa",
+        "servings": 4,
+        "ingredients": {
+            "Chicken Broth": "1 liter",
+            "Chicken Breast": "1 large, cooked and shredded",
+            "White Rice": "1/2 cup",
+            "Eggs": "2",
+            "Lemon Juice": "60ml",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Fresh Dill": "2 tbsp, chopped"
+        },
+        "instructions": "In a pot, bring chicken broth to a simmer. Add white rice and cook until tender. In a bowl, whisk eggs and lemon juice until frothy. Slowly add a ladle of the hot broth to the egg-lemon mixture while whisking to temper the eggs. Gradually pour the tempered egg mixture back into the pot, whisking constantly. Add shredded chicken and season with salt and black pepper. Continue to stir and heat gently, but do not boil, to avoid curdling the eggs. Once heated through, remove from heat. Stir in chopped dill. Serve warm."
+    },
+    {
+        "name": "Tyropita",
+        "servings": 8,
+        "ingredients": {
+            "Phyllo Dough": "12 sheets, thawed",
+            "Feta Cheese": "300g, crumbled",
+            "Ricotta Cheese": "200g",
+            "Eggs": "3",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Olive Oil": "1/4 cup",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Preheat the oven to 180°C (350°F). In a bowl, mix crumbled feta cheese, ricotta cheese, beaten eggs, chopped parsley, olive oil, salt, and black pepper. Brush a baking dish with olive oil. Layer 6 sheets of phyllo dough, brushing each with olive oil. Spread the cheese mixture evenly over the dough. Layer the remaining 6 sheets of phyllo dough on top, brushing each with olive oil. Score the top layer into squares. Bake for about 35-40 minutes, until the pie is golden brown and crispy. Let it cool slightly before cutting and serving."
+    },
+    {
+        "name": "Melomakarona",
+        "servings": 30,
+        "ingredients": {
+            "All-Purpose Flour": "500g",
+            "Ground Walnuts": "200g",
+            "Sugar": "150g",
+            "Olive Oil": "200ml",
+            "Orange Juice": "100ml",
+            "Brandy": "1 tbsp",
+            "Baking Powder": "2 tsp",
+            "Ground Cinnamon": "1 tsp",
+            "Ground Cloves": "1/4 tsp",
+            "Honey": "300ml",
+            "Water": "200ml"
+        },
+        "instructions": "Preheat the oven to 180°C (350°F). In a bowl, mix all-purpose flour, ground walnuts, sugar, baking powder, ground cinnamon, and ground cloves. In a separate bowl, whisk together olive oil, orange juice, and brandy. Gradually add the wet ingredients to the dry ingredients, mixing to form a dough. Shape the dough into oval cookies and place them on a baking sheet lined with parchment paper. Bake for about 20-25 minutes, until golden brown. While the cookies are baking, prepare the syrup by boiling honey and water together for a few minutes. Remove the cookies from the oven and immediately dip them in the hot syrup. Let them soak for a minute, then remove and place on a platter to cool. Sprinkle with ground cinnamon before serving."
+    },
+    {
+        "name": "Shakshuka",
+        "servings": 4,
+        "ingredients": {
+            "Olive Oil": "2 tbsp",
+            "Onion": "1 large, chopped",
+            "Red Bell Pepper": "1, diced",
+            "Garlic": "3 cloves, minced",
+            "Ground Cumin": "1 tsp",
+            "Ground Paprika": "1 tsp",
+            "Cayenne Pepper": "1/4 tsp",
+            "Canned Crushed Tomatoes": "800g",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Eggs": "4",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Feta Cheese": "100g, crumbled"
+        },
+        "instructions": "In a skillet, heat olive oil over medium heat. Add chopped onion and diced red bell pepper. Sauté until softened. Add minced garlic, ground cumin, ground paprika, and cayenne pepper. Cook for a minute until fragrant. Pour in canned crushed tomatoes and season with salt and black pepper. Simmer for about 10-15 minutes, until the sauce thickens. Create small wells in the sauce and crack an egg into each well. Cover the skillet and cook for about 5-7 minutes, until the egg whites are set. Sprinkle chopped fresh parsley and crumbled feta cheese over the top. Serve with crusty bread."
+    },
+    {
+        "name": "Taramasalata",
+        "servings": 6,
+        "ingredients": {
+            "Tarama (Fish Roe)": "200g",
+            "Bread": "2 slices, crusts removed",
+            "Lemon Juice": "1/4 cup",
+            "Olive Oil": "1/2 cup",
+            "Red Onion": "1 small, grated",
+            "Potatoes": "1 medium, boiled and mashed",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Soak the bread slices in water and squeeze out excess moisture. In a food processor, blend soaked bread, tarama, lemon juice, grated red onion, and mashed potatoes until smooth. While blending, slowly drizzle in olive oil until the mixture is creamy. Season with black pepper. Transfer to a serving dish and sprinkle chopped fresh parsley over the top. Serve as a dip with pita bread."
+    },
+    {
+        "name": "Lentil Soup",
+        "servings": 6,
+        "ingredients": {
+            "Green Lentils": "1 cup",
+            "Onion": "1 large, chopped",
+            "Carrot": "1 large, chopped",
+            "Celery Stalk": "1, chopped",
+            "Olive Oil": "2 tbsp",
+            "Garlic": "3 cloves, minced",
+            "Ground Cumin": "1 tsp",
+            "Ground Coriander": "1 tsp",
+            "Vegetable Broth": "6 cups",
+            "Bay Leaf": "1",
+            "Lemon Juice": "2 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Fresh Parsley": "2 tbsp, chopped"
+        },
+        "instructions": "In a pot, heat olive oil over medium heat. Add chopped onion, chopped carrot, and chopped celery. Sauté until softened. Add minced garlic, ground cumin, and ground coriander. Cook for a minute until fragrant. Rinse green lentils and add them to the pot. Pour in vegetable broth and add a bay leaf. Bring to a boil, then reduce heat and simmer for about 25-30 minutes, until the lentils are tender. Remove the bay leaf. Use an immersion blender to partially blend the soup to achieve a creamy consistency. Stir in lemon juice, chopped fresh parsley, salt, and black pepper. Adjust seasoning if needed. Serve warm."
+    },
+    {
+        "name": "Couscous Salad",
+        "servings": 4,
+        "ingredients": {
+            "Couscous": "1 cup",
+            "Boiling Water": "1 1/4 cups",
+            "Olive Oil": "2 tbsp",
+            "Lemon Juice": "2 tbsp",
+            "Cherry Tomatoes": "1 cup, halved",
+            "Cucumber": "1, diced",
+            "Red Onion": "1/2, finely chopped",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Fresh Mint": "2 tbsp, chopped",
+            "Feta Cheese": "150g, crumbled",
+            "Black Olives": "1/4 cup, pitted and sliced",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Place couscous in a bowl and pour boiling water over it. Cover and let it sit for about 5 minutes. Fluff with a fork. In a separate bowl, whisk together olive oil and lemon juice. Add halved cherry tomatoes, diced cucumber, finely chopped red onion, chopped fresh parsley, chopped fresh mint, crumbled feta cheese, and sliced black olives to the couscous. Pour the dressing over the salad and toss to combine. Season with salt and black pepper. Serve at room temperature."
+    },
+    {
+        "name": "Baba Ganoush",
+        "servings": 6,
+        "ingredients": {
+            "Eggplants": "2 large",
+            "Tahini": "1/4 cup",
+            "Lemon Juice": "1/4 cup",
+            "Garlic": "2 cloves, minced",
+            "Olive Oil": "2 tbsp",
+            "Ground Cumin": "1/2 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Pomegranate Seeds": "For garnish"
+        },
+        "instructions": "Preheat the oven to 200°C (400°F). Pierce eggplants with a fork and roast them in the oven for about 40-50 minutes, until tender. Let them cool, then peel and chop the flesh. In a food processor, blend chopped eggplant, tahini, lemon juice, minced garlic, olive oil, ground cumin, salt, and black pepper until smooth. Transfer to a serving dish and sprinkle chopped fresh parsley and pomegranate seeds over the top. Serve as a dip with pita bread."
+    },
+    {
+        "name": "Caprese Salad",
+        "servings": 4,
+        "ingredients": {
+            "Fresh Mozzarella Cheese": "200g, sliced",
+            "Tomatoes": "2 large, sliced",
+            "Fresh Basil Leaves": "1/2 cup",
+            "Extra Virgin Olive Oil": "2 tbsp",
+            "Balsamic Vinegar": "1 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Alternate slices of fresh mozzarella cheese and tomato on a serving plate. Tuck fresh basil leaves between the slices. Drizzle extra virgin olive oil and balsamic vinegar over the salad. Season with salt and black pepper. Serve as an appetiser or side dish."
+    },
+    {
+        "name": "Paella",
+        "servings": 6,
+        "ingredients": {
+            "Chicken Thighs": "500g, bone-in and skin-on",
+            "Chorizo Sausage": "200g, sliced",
+            "Shrimp": "250g, peeled and deveined",
+            "Arborio Rice": "2 cups",
+            "Onion": "1 large, chopped",
+            "Red Bell Pepper": "1, diced",
+            "Green Peas": "1 cup",
+            "Saffron Threads": "1/2 tsp, soaked in warm water",
+            "Smoked Paprika": "1 tsp",
+            "Chicken Broth": "4 cups",
+            "White Wine": "1/2 cup",
+            "Olive Oil": "2 tbsp",
+            "Lemon Wedges": "For serving",
+            "Fresh Parsley": "2 tbsp, chopped"
+        },
+        "instructions": "Season chicken thighs with salt and pepper. In a paella pan, heat olive oil over medium-high heat. Add chicken thighs and cook until browned on both sides. Remove and set aside. In the same pan, add sliced chorizo sausage and cook until slightly crispy. Add chopped onion and diced red bell pepper. Sauté until softened. Stir in Arborio rice and smoked paprika. Pour in white wine and cook until mostly absorbed. Return the chicken thighs to the pan. Add saffron threads and its soaking water, followed by chicken broth. Bring to a simmer and cook for about 15-20 minutes, until the rice is cooked and the liquid is absorbed. Add green peas and shrimp. Cook for an additional 5-7 minutes, until the shrimp turn pink. Remove from heat and let it rest for a few minutes. Garnish with chopped fresh parsley and serve with lemon wedges."
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "servings": 2,
+        "ingredients": {
+            "Greek Yogurt": "1 cup",
+            "Honey": "2 tbsp",
+            "Fresh Mixed Berries": "1 cup",
+            "Granola": "1/4 cup",
+            "Chopped Nuts": "2 tbsp",
+            "Fresh Mint Leaves": "For garnish"
+        },
+        "instructions": "In serving glasses or bowls, layer Greek yogurt, drizzle of honey, fresh mixed berries, and granola. Repeat the layers. Top with chopped nuts and garnish with fresh mint leaves. Serve as a healthy and delicious breakfast or dessert."
+    },
+    {
+        "name": "Grilled Sea Bass",
+        "servings": 4,
+        "ingredients": {
+            "Sea Bass Fillets": "4 (about 150g each)",
+            "Fresh Lemon Juice": "1/4 cup",
+            "Fresh Thyme": "1 tbsp, chopped",
+            "Fresh Rosemary": "1 tbsp, chopped",
+            "Garlic": "3 cloves, minced",
+            "Olive Oil": "1/4 cup",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "In a bowl, whisk together fresh lemon juice, chopped fresh thyme, chopped fresh rosemary, minced garlic, and olive oil. Season the white fish fillets with salt and black pepper. Place the fillets in a shallow dish and pour the lemon herb marinade over them. Cover and refrigerate for about 30 minutes. Preheat grill to medium-high heat. Grill the fish fillets for about 3-4 minutes per side, or until cooked through and flaky. Serve with your choice of side dishes."
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "servings": 4,
+        "ingredients": {
+            "Bell Peppers": "4, halved and seeds removed",
+            "Lean Ground Beef": "400g",
+            "Onion": "1 medium, chopped",
+            "Garlic": "3 cloves, minced",
+            "Cooked Quinoa": "1 cup",
+            "Canned Diced Tomatoes": "400g",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Fresh Mint": "2 tbsp, chopped",
+            "Ground Cumin": "1 tsp",
+            "Ground Paprika": "1 tsp",
+            "Olive Oil": "2 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste",
+            "Feta Cheese": "1/2 cup, crumbled"
+        },
+        "instructions": "Preheat the oven to 180°C (350°F). In a pan, heat olive oil over medium heat. Add chopped onion and sauté until translucent. Add minced garlic and lean ground beef. Cook until the beef is browned. Stir in cooked quinoa, canned diced tomatoes, chopped fresh parsley, chopped fresh mint, ground cumin, ground paprika, salt, and black pepper. Cook for a few more minutes until the flavours combine. Place halved bell peppers in a baking dish. Fill each pepper half with the beef and quinoa mixture. Sprinkle crumbled feta cheese over the top. Cover the baking dish with aluminium foil and bake for about 30-35 minutes, until the peppers are tender. Remove the foil and bake for an additional 10-15 minutes to lightly brown the cheese. Serve warm."
+    },
+    {
+        "name": "Cretan Dakos",
+        "servings": 4,
+        "ingredients": {
+            "Dakos (Barley Rusk)": "4 pieces",
+            "Tomatoes": "2 medium, diced",
+            "Feta Cheese": "150g, crumbled",
+            "Olives": "1/2 cup, Kalamata or black, pitted and sliced",
+            "Capers": "2 tbsp",
+            "Red Onion": "1 small, finely chopped",
+            "Fresh Oregano": "1 tbsp, chopped",
+            "Extra Virgin Olive Oil": "1/4 cup",
+            "Red Wine Vinegar": "2 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Place the dakos (barley rusk) pieces in a shallow dish and sprinkle with red wine vinegar. Let them soak for a few minutes to soften. In a bowl, combine diced tomatoes, crumbled feta cheese, sliced olives, capers, finely chopped red onion, chopped fresh oregano, extra virgin olive oil, salt, and black pepper. Toss to combine. Place each soaked dakos on a serving plate and spoon the tomato-feta mixture over the top. Drizzle with a bit more olive oil if desired. Serve as a traditional Cretan appetizer or light meal."
+    },
+    {
+        "name": "Chickpea Salad",
+        "servings": 4,
+        "ingredients": {
+            "Canned Chickpeas": "2 cans (400g each), drained and rinsed",
+            "Cucumber": "1, diced",
+            "Red Bell Pepper": "1, diced",
+            "Red Onion": "1/2, finely chopped",
+            "Cherry Tomatoes": "1 cup, halved",
+            "Kalamata Olives": "1/2 cup, pitted and halved",
+            "Fresh Parsley": "1/4 cup, chopped",
+            "Fresh Mint": "2 tbsp, chopped",
+            "Feta Cheese": "150g, crumbled",
+            "Lemon Juice": "3 tbsp",
+            "Extra Virgin Olive Oil": "1/4 cup",
+            "Ground Cumin": "1/2 tsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "In a large bowl, combine drained and rinsed chickpeas, diced cucumber, diced red bell pepper, finely chopped red onion, halved cherry tomatoes, halved Kalamata olives, chopped fresh parsley, chopped fresh mint, and crumbled feta cheese. In a separate small bowl, whisk together lemon juice, extra virgin olive oil, ground cumin, salt, and black pepper. Pour the dressing over the salad and toss to combine. Adjust seasoning if needed. Serve as a refreshing and nutritious salad."
+    },
+    {
+        "name": "Rice Pilaf",
+        "servings": 4,
+        "ingredients": {
+            "Basmati Rice": "1 cup",
+            "Vegetable Broth": "2 cups",
+            "Onion": "1 medium, chopped",
+            "Red Bell Pepper": "1, diced",
+            "Green Peas": "1/2 cup",
+            "Dried Currants": "1/4 cup",
+            "Toasted Pine Nuts": "2 tbsp",
+            "Fresh Parsley": "2 tbsp, chopped",
+            "Fresh Mint": "1 tbsp, chopped",
+            "Ground Cumin": "1/2 tsp",
+            "Ground Coriander": "1/2 tsp",
+            "Lemon Zest": "1 tsp",
+            "Olive Oil": "2 tbsp",
+            "Salt": "To taste",
+            "Black Pepper": "To taste"
+        },
+        "instructions": "Rinse the basmati rice under cold water until the water runs clear. In a pot, heat olive oil over medium heat. Add chopped onion and diced red bell pepper. Sauté until softened. Add ground cumin and ground coriander. Cook for a minute until fragrant. Stir in the rinsed rice and toast for a couple of minutes. Pour in vegetable broth and add a pinch of salt. Bring to a boil, then reduce heat to low. Cover and simmer for about 15-20 minutes, or until the rice is cooked and the liquid is absorbed. Fluff the rice with a fork. Add green peas, dried currants, toasted pine nuts, chopped fresh parsley, chopped fresh mint, and lemon zest. Toss to combine. Adjust seasoning if needed. Serve as a flavorful side dish."
+    }
+]
+
+
